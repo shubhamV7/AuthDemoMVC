@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{EA447002-00A8-4770-B686-DBB1A97FA6A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthDemoMVC", "AuthDemoMVC\AuthDemoMVC.csproj", "{3F73C007-C8E7-423F-B067-7B6352C5B45D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA447002-00A8-4770-B686-DBB1A97FA6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA447002-00A8-4770-B686-DBB1A97FA6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA447002-00A8-4770-B686-DBB1A97FA6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA447002-00A8-4770-B686-DBB1A97FA6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F73C007-C8E7-423F-B067-7B6352C5B45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F73C007-C8E7-423F-B067-7B6352C5B45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F73C007-C8E7-423F-B067-7B6352C5B45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F73C007-C8E7-423F-B067-7B6352C5B45D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7C8FA4E-CA9F-43B3-99D3-1E4EB9E1CFD2}
+	EndGlobalSection
+EndGlobal
